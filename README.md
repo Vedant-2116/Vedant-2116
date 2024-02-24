@@ -83,7 +83,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Vedant-2116/Vedant-2116/output/snake.svg" alt="Snake animation" />
+<img src="snake.yml" alt="Snake animation" />
 
 ###
 
